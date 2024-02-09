@@ -23,5 +23,5 @@
       ]
     }
   },
-  "postCreateCommand": "bash post_install.sh && poetry shell"
+  "postCreateCommand": "bash post_install.sh"
 }
