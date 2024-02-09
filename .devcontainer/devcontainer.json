@@ -23,5 +23,5 @@
       ]
     }
   },
-  "postCreateCommand": "echo 'Hello, World!'"
+  "postCreateCommand": "bash post_install.sh"
 }
