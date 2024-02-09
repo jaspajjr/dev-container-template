@@ -48,5 +48,5 @@ jobs:
 
       - name: Run pre-commit hooks
         run: |
-          python run pre-commit install
-          python run pre-commit run
+          poetry pre-commit install
+          poetry pre-commit run
